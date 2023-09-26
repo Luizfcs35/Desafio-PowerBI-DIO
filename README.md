@@ -25,10 +25,10 @@
 
 ## Lembre-se de: 
 
-Criar a segunda página do relatório 
+* Criar a segunda página do relatório 
 
-Publique o seu relatório no Power BI Service 
+* Publique o seu relatório no Power BI Service 
 
-Caso você tenha familiaridade fique livre para utilizar outros artifícios nos botões e outros 
+* Caso você tenha familiaridade fique livre para utilizar outros artifícios nos botões e outros 
 
-Submenta seu projeto através do link no github 
+* Submenta seu projeto através do link no github 
